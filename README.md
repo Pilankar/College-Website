@@ -32,7 +32,7 @@ totally dedicated to the course itself.</li>
 
 ## Preview
 <p align="left">
-<img src="CollegePortal-Home.png" width="700" style="border:2px solid black"/>
+<img src="CollegePortal-Home.png" width="700"/>
 <br><br>
-<img src="CollegePortal-Gallery.png" width="700" style="border:2px solid black"/>
+<img src="CollegePortal-Gallery.png" width="700"/>
 </p>
