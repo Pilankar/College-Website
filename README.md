@@ -31,7 +31,8 @@ totally dedicated to the course itself.</li>
 <br/>
 
 ## Preview
-<p align="center">
-<img src="CollegePortal-Home.png" width="600"/>
-<img src="CollegePortal-Gallery.png" width="600"/>
+<p align="left">
+<img src="CollegePortal-Home.png" width="700" style="border:2px solid black"/>
+<br><br>
+<img src="CollegePortal-Gallery.png" width="700" style="border:2px solid black"/>
 </p>
